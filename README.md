@@ -17,9 +17,6 @@ Things I've built that I'm proud of:
 - **Autograd Engine** — Built PyTorch's autograd from first principles in pure Python. Computational graphs, topological sort, backpropagation, SGD. Trained XOR to a 0.0002 loss. This one taught me more than any course.
 
 - **Research Paper Q&A System (RAG)** — Full-stack system with a dual-retriever architecture for paper discovery + focused Q&A. LangChain, Pinecone, Next.js. Built for extensibility.
-
-- **Email Spam Classifier** — 96.77% accuracy. Naive Bayes + TF-IDF, MLflow tracking, Docker, DVC, live demo.
-
 ---
 
 ## Stack
